@@ -15,10 +15,13 @@ cd .\AsyncJS\src
 node .\settimeout.js
 ````
 
-## Promises and Chaining Promises
+## Promises, PromiseAll and Chaining Promises
 
 ```bash
 node .\promises.js
+````
+```bash
+node .\promiseall.js
 ````
 
 ## Fetch 
