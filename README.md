@@ -33,7 +33,7 @@ node .\fetch.js
 node .\asyncawait.js
 ````
 
-### Refrences
+### References
 
 [Asynchronous JavaScript Tutorial](https://youtu.be/ZcQyJ-gxke0)
 
