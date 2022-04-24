@@ -1,2 +1,34 @@
-# AsyncJavaScriptTutorial
-Async JavaScript Tutorial: setTimeout, Promises, Chaining Promises, Fetch, Aync &amp; Await
+# Async JavaScript Tutorial
+
+## Requirement
+
+- [Node.js](https://nodejs.org/en/download/)
+- [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+
+```bash
+cd .\AsyncJS\src
+````
+
+## setTimeout
+
+```bash
+node .\settimeout.js
+````
+
+## Promises and Chaining Promises
+
+```bash
+node .\promises.js
+````
+
+## Fetch 
+
+```bash
+node .\fetch.js
+````
+
+## Async and Await
+
+```bash
+node .\asyncawait.js
+````
